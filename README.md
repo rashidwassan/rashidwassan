@@ -30,10 +30,10 @@
 - 🔭 I’m currently working on Flutter & Python.
 - 🌱 I’m currently learning more about Flutter.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/RashidsTechStuff).
-- 🤔 I’m looking for help in growing my Twitter and YouTube reach.
+- 🤔 I’m looking for help in growing my [Twitter](https://twitter.com/rashidwassaan) and [YouTube](https://www.youtube.com/c/RashidsTechStuff) reach.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @rashidwassaan](https://twitter.com/rashidwassaan)
-- 😄 Pronouns: He/His
+- 📫 How to reach me: [Twitter - @rashidwassaan](https://twitter.com/rashidwassaan).
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: rashidwassaan](https://img.shields.io/twitter/follow/rashidwassaan?style=social)](https://twitter.com/rashidwassaan)
@@ -46,16 +46,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
 
 
-<a href="https://github.com/rashidwassan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidwassan&theme=light&hide_langs_below=1" />
-</a>
+
 <a href="https://github.com/rashidwassan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-
+<div align="left">
+<a href="https://github.com/rashidwassan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidwassan&theme=light&hide_langs_below=1" />
+</a>
 
 <div align="center">
 
