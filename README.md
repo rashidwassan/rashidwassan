@@ -37,7 +37,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
-[![Twitter: rashidwassaan](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/rashidwassaan)
+[![Twitter: rashidwassaan](https://img.shields.io/twitter/follow/rashidwassaan?style=social)](https://twitter.com/rashidwassaan)
 [![Linkedin: rashidwassan](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rashidwassan/)](https://www.linkedin.com/in/rashidwassan/)
 [![GitHub: rashidwassan](https://img.shields.io/github/followers/rashidwassan?label=follow&style=social)](https://github.com/iampawan)
 
