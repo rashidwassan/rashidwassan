@@ -1,6 +1,6 @@
 ## Hi, I'm Rashid Wassan! 👋
 
-<p align="left"> ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views) </p>
+![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 
 <a href="https://twitter.com/rashidwassaan">
   <img align="left" alt="Rashid's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
