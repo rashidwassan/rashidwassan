@@ -30,7 +30,7 @@
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @rashidwassaan](https://twitter.com/rashidwassaan).
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I game on my MacBook🙃.
+- ⚡ Fun fact: I am a Mac gamer🙃.
 
 ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 [![Twitter: rashidwassaan](https://img.shields.io/twitter/follow/rashidwassaan?style=social)](https://twitter.com/rashidwassaan)
