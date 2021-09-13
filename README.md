@@ -1,3 +1,4 @@
+![Untitled design (1)](https://user-images.githubusercontent.com/60597290/133163121-321b146e-e596-4bad-a181-4580930e8542.png)
 ## Hi, I'm Rashid Wassan! 👋
 
 <a href="https://twitter.com/rashidwassaan">
