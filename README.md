@@ -1,6 +1,5 @@
-![Untitled design (1)](https://user-images.githubusercontent.com/60597290/133163121-321b146e-e596-4bad-a181-4580930e8542.png)
-## Hi, I'm Rashid Wassan! 👋
-
+## Hola! Rashid Wassan here! 👋
+![image](https://user-images.githubusercontent.com/60597290/133163679-2b92cf32-62e9-4255-b999-bdcdc52d80f1.png)
 <a href="https://twitter.com/rashidwassaan">
   <img align="left" alt="Rashid's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
