@@ -52,7 +52,8 @@
 <center>
 <a href="https://github.com/rashidwassan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=dark&line_height=40" alt="Rashid's github stats"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidwassan&layout=compact)](https://github.com/rashidwassan/github-readme-stats)
+  </a>
 <hr>
 
 <div align="center">
