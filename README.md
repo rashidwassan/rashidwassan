@@ -52,7 +52,6 @@
 <center>
 <a href="https://github.com/rashidwassan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=dark&line_height=40" alt="Rashid's github stats"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidwassan&langs_count=5&theme=dark" alt="Rashid's github stats"/>
 </a>
 <hr>
 
