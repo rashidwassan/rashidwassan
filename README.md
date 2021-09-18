@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/60597290/133163679-2b92cf32-62e9-4255-b999-bdcdc52d80f1.png)
-## Hola! Rashid Wassan here! 👋
+## Hola! Rashid Wassan here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="https://twitter.com/rashidwassaan">
   <img align="center" alt="Rashid's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -35,8 +35,9 @@
 
 ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 [![Twitter: rashidwassaan](https://img.shields.io/twitter/follow/rashidwassaan?style=social)](https://twitter.com/rashidwassaan)
-[![Linkedin: rashidwassan](https://img.shields.io/badge/-rashidwassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rashidwassan/)](https://www.linkedin.com/in/rashidwassan/)
 [![GitHub: rashidwassan](https://img.shields.io/github/followers/rashidwassan?label=follow&style=social)](https://github.com/rashidwassan)
+[![Linkedin: rashidwassan](https://img.shields.io/badge/-rashidwassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rashidwassan/)](https://www.linkedin.com/in/rashidwassan/)
+[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rashidwassan) 
 
 
 **Languages and Tools:**  
@@ -51,8 +52,7 @@
 <hr>
 <center>
 <a href="https://github.com/rashidwassan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=dark&line_height=40" alt="Rashid's github stats"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidwassan&layout=compact)](https://github.com/rashidwassan/github-readme-stats)
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=dark" alt="rashidwassan" />
   </a>
 <hr>
 
