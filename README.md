@@ -50,13 +50,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
 
 <hr>
-<center>
-<a href="https://github.com/rashidwassan">
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=dark" alt="rashidwassan" />
-  </a>
+
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+</p>
 <hr>
 
 <div align="center">
+  
+  
+<a href="https://sharjeelyunus.github.io/"><img alt="Rashid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rashidwassan&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
 
 ### Show some ❤️ by starring some of the repositories!
 
