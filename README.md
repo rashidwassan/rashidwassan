@@ -13,7 +13,7 @@
 <a href="https://instagram.com/rashidwassaan/">
   <img align="center" alt="Rashid's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/rashidwassaan/">
+<a href="https://www.facebook.com/rashidwassann/">
   <img align="center" alt="Rashid's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/rashidstechstuff/">
