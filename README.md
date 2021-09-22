@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/rashidwassann" target="_blank">
   <img  alt="@Rashid Wassan | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/rashidwassan" target="_blank">
+<a href="https://www.instagram.com/rashidwassaan" target="_blank">
   <img alt="Rashid Wassan | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
