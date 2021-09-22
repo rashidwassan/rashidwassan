@@ -1,27 +1,23 @@
 ![image](https://user-images.githubusercontent.com/60597290/133163679-2b92cf32-62e9-4255-b999-bdcdc52d80f1.png)
+<p align="center">
+  <a href="https://github.com/rashidwassan?tab=followers">
+    <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/rashidwassaan">
+    <img src="https://img.shields.io/twitter/follow/rashidwassaan?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
+  <img alt="RashidWassan | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/rashidwassann" target="_blank">
+  <img  alt="@Rashid Wassan | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/rashidwassan" target="_blank">
+  <img alt="Rashid Wassan | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
+
 ## Hola! Rashid Wassan here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<a href="https://twitter.com/rashidwassaan">
-  <img align="center" alt="Rashid's Twitter" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/rashidwassan">
-  <img align="center" alt="Rashid's Linkdein" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-</a>
-<a href="https://github.com/rashidwassan">
-  <img align="center" alt="Rashid's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://instagram.com/rashidwassaan/">
-  <img align="center" alt="Rashid's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/rashidwassann/">
-  <img align="center" alt="Rashid's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/rashidstechstuff/">
-  <img align="center" alt="Rashid's Youtube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-<br/>
-<br/>
 
 - 🔭 I’m currently working on Flutter & Python.
 - 🌱 I’m currently learning more about Flutter.
