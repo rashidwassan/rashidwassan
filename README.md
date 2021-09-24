@@ -19,14 +19,13 @@
 
 ## Hola! Rashid Wassan here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+- ✍🏻 I'm a passionate developer and content writer on [Medium](https://rashidwassan.medium.com).
 - 🔭 I’m currently working on Flutter & Python.
 - 🌱 I’m currently learning more about Flutter.
-- ✍🏻 I'm on [Medium](https://rashidwassan.medium.com) as well, writing for helping others.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/RashidsTechStuff).
 - 🤔 I’m looking for help in growing my [Twitter](https://twitter.com/rashidwassaan) and [YouTube](https://www.youtube.com/c/RashidsTechStuff) reach.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @rashidwassaan](https://twitter.com/rashidwassaan).
-- 😄 Pronouns: He/His.
 - ⚡ Fun fact: I am a Mac gamer🙃.
 
 ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
