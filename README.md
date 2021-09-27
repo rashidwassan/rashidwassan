@@ -10,12 +10,15 @@
   <a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
   <img alt="RashidWassan | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+  </a>
+  <a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
+  <img alt="Rashid Wassan | StackOverFlow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
 <a href="https://www.facebook.com/rashidwassann" target="_blank">
   <img  alt="@Rashid Wassan | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/rashidwassaan" target="_blank">
   <img alt="Rashid Wassan | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 </p>
 
 ## Hola! Rashid Wassan here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
