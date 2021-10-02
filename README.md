@@ -25,7 +25,7 @@
 
 - ✍🏻 I'm a passionate developer and content writer on [Medium](https://rashidwassan.medium.com).
 - 🔭 I’m currently working on Flutter & Python.
-- 🌱 I’m currently learning more about Flutter.
+- 🌱 I’m currently learning more about DevOps & AWS.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/RashidsTechStuff).
 - 🤔 I’m looking for help in growing my [Twitter](https://twitter.com/rashidwassaan) and [YouTube](https://www.youtube.com/c/RashidsTechStuff) reach.
 - 💬 Ask me about Flutter or any tech related stuff.
