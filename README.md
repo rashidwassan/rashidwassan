@@ -59,7 +59,7 @@
 <div align="center">
   
   
-<a href="https://rashidwassan.github.io/"><img alt="Rashid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rashidwassan&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
+<a href="https://rashidwassan.github.io/"><img alt="Rashid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rashidwassan&theme=react-dark&hide_border=true&area=true" /></a>
   
 
 ### Show some ❤️ by starring some of the repositories!
