@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/60597290/137976263-5f9074b8-f171-4f69-8283-326ed82f0e66.png)
+![image](https://user-images.githubusercontent.com/60597290/151848154-215a5614-31e8-4396-b0b6-62cca21e8b79.png)
 
 <p align="center">
   <a href="https://github.com/rashidwassan?tab=followers">
