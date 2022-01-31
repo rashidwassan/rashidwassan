@@ -54,13 +54,8 @@
 </p>
 
   <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-<hr>
 
 <div align="center">
-  
-  
-<a href="https://rashidwassan.github.io/"><img alt="Rashid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rashidwassan&theme=react-dark&hide_border=true&area=true" /></a>
-  
 
 ### Show some ❤️ by starring some of the repositories!
 
