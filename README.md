@@ -10,15 +10,15 @@
 </a>
 
 <a href="https://twitter.com/rashidwassaan">
-    <img  width="70" height="70" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
+    <img  width="65" height="65" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
 </a>
   
 <a href="https://www.youtube.com/c/RashidsTechStuff">
-    <img width="70" height="70" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
+    <img width="65" height="65" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
 </a>
   
 <a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
-  <img width="70" height="70" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+  <img width="65" height="65" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a>
   
 <a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
@@ -26,11 +26,11 @@
 </a>
 
 <a href="https://www.facebook.com/rashidwassann" target="_blank">
-  <img width="70" height="70" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
+  <img width="65" height="65" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
 </a>
 
 <a href="https://www.instagram.com/rashidwassaan" target="_blank">
-  <img width="70" height="70" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+  <img width="65" height="65" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
   
 &nbsp;
