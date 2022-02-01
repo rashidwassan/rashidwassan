@@ -1,6 +1,10 @@
 ![image](https://user-images.githubusercontent.com/60597290/151848154-215a5614-31e8-4396-b0b6-62cca21e8b79.png)
 <div align="center">
-
+  
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Hello+Coders!;I+am+Rashid+Wassan%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;GDSC+Lead+%7C+Microsoft+LSA;Flutter+Developer;Blockchain+Enthusiast;Tech+Evangelist;Glad+to+see+you+here!!!)](https://git.io/typing-svg)
+  
   ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 </div>
 
@@ -24,8 +28,6 @@
 <a href="https://www.instagram.com/rashidwassaan" target="_blank">
   <img alt="Rashid Wassan | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
-
-## Hola! Rashid Wassan here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - ✍🏻 I'm a passionate developer and content writer on [Medium](https://rashidwassan.medium.com).
 - 🔭 I’m currently working on Flutter & Python.
