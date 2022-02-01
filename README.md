@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Hello+Coders!;I+am+Rashid+Wassan%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;GDSC+Lead+%7C+Microsoft+LSA;Flutter+Developer;Blockchain+Enthusiast;Tech+Evangelist;Glad+to+see+you+here!!!)](https://git.io/typing-svg)
   
-<a href="rashidwassan.tech">
+<a href="https://www.rashidwassan.tech">
   <img src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
   ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
