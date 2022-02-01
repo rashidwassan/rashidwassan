@@ -10,27 +10,27 @@
 </a>
 
 <a href="https://twitter.com/rashidwassaan">
-    <img  width="70" height="70" src="https://user-images.githubusercontent.com/60597290/152013137-559a4652-c019-4e79-be1f-5682d2e7ad1a.svg" />
+    <img  width="70" height="70" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
 </a>
   
 <a href="https://www.youtube.com/c/RashidsTechStuff">
-    <img width="70" height="70" src="https://user-images.githubusercontent.com/60597290/152013481-2039b22d-f159-45a5-be4f-a6241693d907.svg" />
+    <img width="70" height="70" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
 </a>
   
 <a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
-  <img width="70" height="70" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152012381-5f956466-fec0-476c-bcf1-2f8f90e0a7d9.svg"/>
+  <img width="70" height="70" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a>
   
 <a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
-  <img width="70" height="70" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152019043-bc901712-f7f6-47fd-9794-2604a71958ca.svg" />
+  <img width="70" height="70" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
 </a>
 
 <a href="https://www.facebook.com/rashidwassann" target="_blank">
-  <img width="70" height="70" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/151983906-211c9a2a-d4c9-4fd2-b65a-877af355c430.svg" />
+  <img width="70" height="70" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
 </a>
 
 <a href="https://www.instagram.com/rashidwassaan" target="_blank">
-  <img width="70" height="70" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152012862-f51eb085-8a5d-4ccf-b807-7bd0a7b7e5e0.svg" />
+  <img width="70" height="70" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
   
 &nbsp;
