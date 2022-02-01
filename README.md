@@ -8,29 +8,34 @@
   
   ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 </a>
-</div>
 
-<p align="center">
-  <a href="https://github.com/rashidwassan?tab=followers">
-    <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/rashidwassaan">
-    <img src="https://img.shields.io/twitter/follow/rashidwassaan?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
-  <img alt="RashidWassan | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://twitter.com/rashidwassaan">
+    <img  width="70" height="70" src="https://user-images.githubusercontent.com/60597290/152013137-559a4652-c019-4e79-be1f-5682d2e7ad1a.svg" />
 </a>
-  </a>
-  <a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
-  <img alt="Rashid Wassan | StackOverFlow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  
+<a href="https://www.youtube.com/c/RashidsTechStuff">
+    <img width="70" height="70" src="https://user-images.githubusercontent.com/60597290/152013481-2039b22d-f159-45a5-be4f-a6241693d907.svg" />
 </a>
+  
+<a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
+  <img width="70" height="70" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152012381-5f956466-fec0-476c-bcf1-2f8f90e0a7d9.svg"/>
+</a>
+  
+<a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
+  <img width="70" height="70" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152019043-bc901712-f7f6-47fd-9794-2604a71958ca.svg" />
+</a>
+
 <a href="https://www.facebook.com/rashidwassann" target="_blank">
-  <img  alt="@Rashid Wassan | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <img width="70" height="70" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/151983906-211c9a2a-d4c9-4fd2-b65a-877af355c430.svg" />
 </a>
-<a href="https://www.instagram.com/rashidwassaan" target="_blank">
-  <img alt="Rashid Wassan | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 
-![Languages   ools (3000 × 600 px) (3000 × 1100 px) (2)](https://user-images.githubusercontent.com/60597290/151956911-694185a9-649f-4890-9e8d-09b71f40ad70.png)
+<a href="https://www.instagram.com/rashidwassaan" target="_blank">
+  <img width="70" height="70" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152012862-f51eb085-8a5d-4ccf-b807-7bd0a7b7e5e0.svg" />
+</a>
+
+<br>
+ 
+![Languages & Tools](https://user-images.githubusercontent.com/60597290/151956911-694185a9-649f-4890-9e8d-09b71f40ad70.png)
 
 <h1 align="center">
   ABOUT ME
@@ -41,9 +46,7 @@ I am a perfectionist, having obsession with beautiful user interface designs & g
 I am a nerd with great troubleshooting skills, who loves to play with different operating systems and explore them. Computer hardware fascinates me very much. Looking forward to having understanding of DevOps & AWS while exploring advanced Dart & Flutter concepts!
 Apart from that, I'm a helping hand for the learners; helping them to learn and grow. I believe in quality education & eager to promote it. I have been helping others by creating content on my YouTube channel & writing articles on various platforms.  
 </p>
-  
 <hr>
-
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
@@ -60,4 +63,3 @@ Java               0 secs              ░░░░░░░░░░     00.05%
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
