@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/60597290/151848154-215a5614-31e8-4396-b0b6-62cca21e8b79.png)
+![image](https://user-images.githubusercontent.com/60597290/152024891-a98e0d75-1ade-472d-b1cc-d4a2599b1a5e.png)
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Hello+Coders!;I+am+Rashid+Wassan%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;GDSC+Lead+%7C+Microsoft+LSA;Flutter+Developer;Blockchain+Enthusiast;Tech+Evangelist;Glad+to+see+you+here!!!)](https://git.io/typing-svg)
@@ -32,9 +32,8 @@
 <a href="https://www.instagram.com/rashidwassaan" target="_blank">
   <img width="70" height="70" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152012862-f51eb085-8a5d-4ccf-b807-7bd0a7b7e5e0.svg" />
 </a>
-
-<br>
- 
+  
+&nbsp;
 ![Languages & Tools](https://user-images.githubusercontent.com/60597290/151956911-694185a9-649f-4890-9e8d-09b71f40ad70.png)
 
 <h1 align="center">
