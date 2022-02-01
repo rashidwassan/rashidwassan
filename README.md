@@ -1,4 +1,8 @@
 ![image](https://user-images.githubusercontent.com/60597290/151848154-215a5614-31e8-4396-b0b6-62cca21e8b79.png)
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
+</div>
 
 <p align="center">
   <a href="https://github.com/rashidwassan?tab=followers">
@@ -32,10 +36,6 @@
 - 📫 How to reach me: [Twitter - @rashidwassaan](https://twitter.com/rashidwassaan).
 - ⚡ Fun fact: I am a Mac gamer🙃.
 
-
-![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
-[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rashidwassan) 
-
 ![Languages   ools (3000 × 600 px) (3000 × 1100 px) (2)](https://user-images.githubusercontent.com/60597290/151956911-694185a9-649f-4890-9e8d-09b71f40ad70.png)
 
 <hr>
@@ -47,7 +47,7 @@
 <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
 
-<h2>📈 Weekly development breakdown: </h2>
+<h2>Weekly development breakdown: </h2>
 
 ```text
 Dart               5 hrs 30 mins       ███████░░░     70.75%
