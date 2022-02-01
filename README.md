@@ -29,16 +29,6 @@
 </a>
 <a href="https://www.instagram.com/rashidwassaan" target="_blank">
   <img alt="Rashid Wassan | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</p>
-
-I'm a passionate developer and content writer on [Medium](https://rashidwassan.medium.com).
-I’m currently working on Flutter & Python.
-I’m currently learning more about DevOps & AWS.
-I’m looking to collaborate on [Youtube](https://www.youtube.com/c/RashidsTechStuff) & GDSC.
-I’m looking for help in growing my [Twitter](https://twitter.com/rashidwassaan) and [YouTube](https://www.youtube.com/c/RashidsTechStuff) reach.
-Ask me about Flutter or any tech related stuff.
-How to reach me: [Twitter - @rashidwassaan](https://twitter.com/rashidwassaan).
-Fun fact: I am a Mac gamer🙃.
 
 ![Languages   ools (3000 × 600 px) (3000 × 1100 px) (2)](https://user-images.githubusercontent.com/60597290/151956911-694185a9-649f-4890-9e8d-09b71f40ad70.png)
 <hr>
