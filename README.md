@@ -52,9 +52,17 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
+<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
-  <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-  
-  <p align="center">
+
+<h2>📈 Weekly development breakdown: </h2>
+
+```text
+Dart               5 hrs 30 mins       ███████░░░     70.75%
+Solidity           3 hrs 15 mins       ██████░░░░     55.18%
+Java               0 secs              ░░░░░░░░░░     00.05%
+```
+
+<p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
