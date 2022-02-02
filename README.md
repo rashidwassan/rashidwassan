@@ -63,6 +63,3 @@ Dart               5 hrs 30 mins       ███████░░░     70.75%
 Solidity           3 hrs 15 mins       ██████░░░░     55.18%
 Java               0 secs              ░░░░░░░░░░     00.05%
 ```
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
