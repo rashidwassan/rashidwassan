@@ -1,4 +1,5 @@
 <!--- assets are created on Canva --->
+<!--- feel free to download the assests and use them in your profile --->
 
 ![image](https://user-images.githubusercontent.com/60597290/152282295-da692d37-bab7-4bfd-add4-1501233ad325.png)
 <div align="center">
@@ -26,7 +27,7 @@
 <a href="https://dev.to/rashidwassan">
     <img width="65" height="65" src="https://user-images.githubusercontent.com/60597290/152042608-2ae071b9-2a64-49be-a49d-f830152cf8d4.png" />
 </a>
-  
+
 <a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
   <img width="65" height="65" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
 </a>
