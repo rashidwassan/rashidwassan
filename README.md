@@ -39,7 +39,8 @@
 <a href="https://www.instagram.com/rashidwassaan" target="_blank">
   <img width="55" height="55" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
-  
+
+![Languages   tools](https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg)
 &nbsp;
 ![Languages & Tools](https://user-images.githubusercontent.com/60597290/152283099-6ca0d8e1-4eb8-49de-9f80-dc8251608462.png)
 
