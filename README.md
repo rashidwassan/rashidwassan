@@ -26,7 +26,7 @@
 </a>
   
 <a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
-  <img width="70" height="70" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
+  <img width="65" height="65" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
 </a>
 
 <a href="https://www.facebook.com/rashidwassann" target="_blank">
@@ -38,13 +38,15 @@
 </a>
   
 &nbsp;
-![Languages & Tools](https://user-images.githubusercontent.com/60597290/151956911-694185a9-649f-4890-9e8d-09b71f40ad70.png)
+![Languages & Tools](https://user-images.githubusercontent.com/60597290/152283099-6ca0d8e1-4eb8-49de-9f80-dc8251608462.png)
 
 <h1 align="center">
   ABOUT ME
 </h1>
+  
+<img width="105" height="105" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152283182-7133c4ea-c658-419f-8316-128c75287aa7.png" />
 
-'A passionate software developer & tech evangelist fascinated by new technology trends & filled with patriotism, giving his best to play his part in bringing digital change and tech awareness in Pakistan.'
+'A young & passionate software developer & tech evangelist fascinated by new technology trends & filled with patriotism, giving his best to play his part in bringing digital change and tech awareness in Pakistan.'
 I am a perfectionist, having obsession with beautiful user interface designs & graphics. I enjoy coding in Flutter, creating beautiful looking apps while being aware of UX as well. Blockchain engrosses me and, therefore, making me dig deeper into the world of Solidity.
 I am a nerd with great troubleshooting skills, who loves to play with different operating systems and explore them. Computer hardware fascinates me very much. Looking forward to having understanding of DevOps & AWS while exploring advanced Dart & Flutter concepts!
 Apart from that, I'm a helping hand for the learners; helping them to learn and grow. I believe in quality education & eager to promote it. I have been helping others by creating content on my [YouTube](https://www.youtube.com/c/RashidsTechStuff) channel & writing articles on various platforms like [Dev.to](https://dev.to/rashidwassan).  
