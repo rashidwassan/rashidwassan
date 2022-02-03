@@ -1,49 +1,68 @@
 <!--- assets are created on Canva --->
 <!--- feel free to download the assests and use them in your profile --->
+<!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
 
+<!--- header image --->
 ![image](https://user-images.githubusercontent.com/60597290/152282295-da692d37-bab7-4bfd-add4-1501233ad325.png)
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Hello+Coders!;I+am+Rashid+Wassan%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;GDSC+Lead+%7C+Microsoft+LSA;Flutter+Developer;Blockchain+Enthusiast;Tech+Evangelist;Glad+to+see+you+here!!!)](https://git.io/typing-svg)
-  
+
+<!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
+<div align="center">  
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Hello+Coders!;I+am+Rashid+Wassan%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;GDSC+Lead+%7C+Microsoft+LSA;Flutter+Developer;Blockchain+Enthusiast;Tech+Evangelist;Glad+to+see+you+here!!!)](https://git.io/typing-svg)
+
+<!--- portfolio launch image --->
 <a href="http://www.rashidwassan.tech">
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
   ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 </a>
 
+<!--- social media icons, you can find them in assets directory of this repo --->
 <a href="https://twitter.com/rashidwassaan">
-    <img  width="55" height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
+    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
 </a>
   
 <a href="https://www.youtube.com/c/RashidsTechStuff">
-    <img width="55" height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
+    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
 </a>
   
 <a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
-  <img width="55" height="55" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+  <img height="55" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a>
   
 <a href="https://dev.to/rashidwassan">
-    <img width="55" height="55" src="https://user-images.githubusercontent.com/60597290/152042608-2ae071b9-2a64-49be-a49d-f830152cf8d4.png" />
+    <img height="55" src="https://user-images.githubusercontent.com/60597290/152042608-2ae071b9-2a64-49be-a49d-f830152cf8d4.png" />
 </a>
 
 <a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
-  <img width="55" height="55" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
+  <img height="55" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
 </a>
 
 <a href="https://www.facebook.com/rashidwassann" target="_blank">
-  <img width="55" height="55" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
+  <img height="55" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
 </a>
 
 <a href="https://www.instagram.com/rashidwassaan" target="_blank">
-  <img width="55" height="55" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+  <img height="55" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
-<div>&nbsp;</div>
-<img height="60" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
-  
-![Languages & Tools](https://user-images.githubusercontent.com/60597290/152283099-6ca0d8e1-4eb8-49de-9f80-dc8251608462.png)
 
+<!--- a bit of vertical space & languages text --->
+<div>&nbsp;</div>
+<img height="65" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
+
+<div></div>
+<!--- language icons --->
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152359293-4c3dc461-2be7-4d75-b5e3-6244637020e1.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152362823-eb0e032a-5c84-4832-803c-c77bf5b558a0.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152361790-b7faad3d-5f95-468a-aa51-e38f39419ec4.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152363164-01140f44-5328-4ea3-8d95-fec21af7e295.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366195-2a7a5be2-acc8-485c-9908-861bcfaa3f2b.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366251-81e7024b-81c6-422c-ae71-ad035850d030.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366230-0d5c915e-b212-49cc-b5d5-00d50b1493f6.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366154-ec1ddf07-fcf8-41f5-a5f8-ccfc331622a2.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" />
+
+&nbsp;
 <h1 align="center">
   ABOUT ME
 </h1>
