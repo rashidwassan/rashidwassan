@@ -67,7 +67,7 @@
   ABOUT ME
 </h1>
   
-<img width="105" height="105" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152283182-7133c4ea-c658-419f-8316-128c75287aa7.png" />
+<img width="105" height="105" src="https://user-images.githubusercontent.com/60597290/152283182-7133c4ea-c658-419f-8316-128c75287aa7.png" />
 
 'A young & passionate software developer & tech evangelist fascinated by new technology trends & filled with patriotism, giving his best to play his part in bringing digital change and tech awareness in Pakistan.'
 I am a perfectionist, having obsession with beautiful user interface designs & graphics. I enjoy coding in Flutter, creating beautiful looking apps while being aware of UX as well. Blockchain engrosses me and, therefore, making me dig deeper into the world of Solidity.
@@ -78,10 +78,10 @@ Apart from that, I'm a helping hand for the learners; helping them to learn and 
   
 <hr>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
-<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
 <h2>WEEKLY DEVELOPMENT STATS </h2>
 
