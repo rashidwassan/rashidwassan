@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/60597290/152024891-a98e0d75-1ade-472d-b1cc-d4a2599b1a5e.png)
+![image](https://user-images.githubusercontent.com/60597290/152282295-da692d37-bab7-4bfd-add4-1501233ad325.png)
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Hello+Coders!;I+am+Rashid+Wassan%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;GDSC+Lead+%7C+Microsoft+LSA;Flutter+Developer;Blockchain+Enthusiast;Tech+Evangelist;Glad+to+see+you+here!!!)](https://git.io/typing-svg)
