@@ -68,8 +68,9 @@ I am a perfectionist, having obsession with beautiful user interface designs & g
 I am a nerd with great troubleshooting skills, who loves to play with different operating systems and explore them. Computer hardware fascinates me very much. Looking forward to having understanding of DevOps & AWS while exploring advanced Dart & Flutter concepts!
 Apart from that, I'm a helping hand for the learners; helping them to learn and grow. I believe in quality education & eager to promote it. I have been helping others by creating content on my [YouTube](https://www.youtube.com/c/RashidsTechStuff) channel & writing articles on various platforms like [Dev.to](https://dev.to/rashidwassan).  
 
+  <!--- adding 3D earth icon to show some love for the environment 🌏 --->
 <img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
-  
+
 <hr>
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
@@ -78,12 +79,13 @@ Apart from that, I'm a helping hand for the learners; helping them to learn and 
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
 <h2>WEEKLY DEVELOPMENT STATS </h2>
-
+<!--- just a dummy data for decoration --->
+  
 ```text
 Dart               5 hrs 30 mins       ███████░░░     70.75%
 Solidity           3 hrs 15 mins       ██████░░░░     55.18%
 Java               0 secs              ░░░░░░░░░░     00.05%
 ```
-![](https://user-images.githubusercontent.com/60597290/152517563-30fb4194-6c31-407c-9cac-7ab0c35b3c3d.png)
-
- 
+<!--- building footer with spaceship question --->
+![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
+<img height="80" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
