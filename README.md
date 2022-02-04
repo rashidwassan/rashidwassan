@@ -20,28 +20,22 @@
 <!--- social media icons, you can find them in assets directory of this repo --->
 <a href="https://twitter.com/rashidwassaan">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
-</a>
-  
+</a>  
 <a href="https://www.youtube.com/c/RashidsTechStuff">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
-</a>
-  
+</a>  
 <a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
   <img height="55" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
-</a>
-  
+</a> 
 <a href="https://dev.to/rashidwassan">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152042608-2ae071b9-2a64-49be-a49d-f830152cf8d4.png" />
 </a>
-
 <a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
   <img height="55" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
 </a>
-
 <a href="https://www.facebook.com/rashidwassann" target="_blank">
   <img height="55" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
 </a>
-
 <a href="https://www.instagram.com/rashidwassaan" target="_blank">
   <img height="55" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
@@ -67,19 +61,21 @@
   ABOUT ME
 </h1>
   
-<img width="105" height="105" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152283182-7133c4ea-c658-419f-8316-128c75287aa7.png" />
+<img width="105" height="105" src="https://user-images.githubusercontent.com/60597290/152283182-7133c4ea-c658-419f-8316-128c75287aa7.png" />
 
 'A young & passionate software developer & tech evangelist fascinated by new technology trends & filled with patriotism, giving his best to play his part in bringing digital change and tech awareness in Pakistan.'
 I am a perfectionist, having obsession with beautiful user interface designs & graphics. I enjoy coding in Flutter, creating beautiful looking apps while being aware of UX as well. Blockchain engrosses me and, therefore, making me dig deeper into the world of Solidity.
 I am a nerd with great troubleshooting skills, who loves to play with different operating systems and explore them. Computer hardware fascinates me very much. Looking forward to having understanding of DevOps & AWS while exploring advanced Dart & Flutter concepts!
 Apart from that, I'm a helping hand for the learners; helping them to learn and grow. I believe in quality education & eager to promote it. I have been helping others by creating content on my [YouTube](https://www.youtube.com/c/RashidsTechStuff) channel & writing articles on various platforms like [Dev.to](https://dev.to/rashidwassan).  
 
+<img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
+  
 <hr>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
-<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
 <h2>WEEKLY DEVELOPMENT STATS </h2>
 
@@ -88,5 +84,6 @@ Dart               5 hrs 30 mins       ███████░░░     70.75%
 Solidity           3 hrs 15 mins       ██████░░░░     55.18%
 Java               0 secs              ░░░░░░░░░░     00.05%
 ```
-<h2>BTW, DID THAT SPACESHIP LAUNCH??🙄 </h2>
+![](https://user-images.githubusercontent.com/60597290/152517563-30fb4194-6c31-407c-9cac-7ab0c35b3c3d.png)
+
  
