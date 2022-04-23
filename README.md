@@ -63,11 +63,21 @@
   
 <img width="105" height="105" src="https://user-images.githubusercontent.com/60597290/152283182-7133c4ea-c658-419f-8316-128c75287aa7.png" />
 
-'A young & passionate software developer & tech evangelist fascinated by new technology trends & filled with patriotism, giving his best to play his part in bringing digital change and tech awareness in Pakistan.'
-I am a perfectionist, having obsession with beautiful user interface designs & graphics. I enjoy coding in Flutter, creating beautiful looking apps while being aware of UX as well. Blockchain engrosses me and, therefore, making me dig deeper into the world of Solidity.
-I am a nerd with great troubleshooting skills, who loves to play with different operating systems and explore them. Computer hardware fascinates me very much. Looking forward to having understanding of DevOps & AWS while exploring advanced Dart & Flutter concepts!
-Apart from that, I'm a helping hand for the learners; helping them to learn and grow. I believe in quality education & eager to promote it. I have been helping others by creating content on my [YouTube](https://www.youtube.com/c/RashidsTechStuff) channel & writing articles on various platforms like [Dev.to](https://dev.to/rashidwassan).  
+'A young entrepreneur, passionate Software Engineer, & tech evangelist fascinated by new tech-trends, & filled with patriotism, eager to play his part in bringing digital revolution and tech awareness in the world.'
+The perfectionist geek living in Metaverse, having a deep obsession with cyberpunk things, gaming, web3 & beautiful user interface designs.
+I love Fluttering in the low level deeper caves of Dart, hunting treasures of advanced programming concepts. 
+I am a patient of the Blockchain Love Syndrome caused by Centralization-o-Phobia, and my mind’s Solidity is (Rust)ed. I am a foodie! The delicious taste of Truffle and Ganache is too mouthwatering for me to resist, causing me to be lost in thoughts of the yummy taste of Remix.
+I prepare for university exams just a night before, the rest of the semester passes by reading exceptions of npm, the error logs, which are longer than my whole semester’s syllabus.
+If experimenting and messing around with different Operating Systems and their crucial files is like shooting one’s foot, then believe me, I hate my feet.
+Computer hardware fascinates me very much, as if I have spent my whole childhood inside a transistor of a Pentium II CPU, thus very curious to know about my neighbors. The petrichor smell of Raspberry Pi & Arduino boards is far superior than that of gasoline.
+I have a serious crush on DevOps and am currently finding ways to reach it with the help of AWS.
+Apart from that, I'm a helping hand for the learners; helping people to learn and grow. I believe in quality education & am eager to promote it. I have been helping others by creating content on my YouTube channel & writing articles on various platforms.
+Thanks to my strong communication skills along with better team management guts, I have been leading Google Developer Students Club at my campus and serving as a Microsoft Learn Student Ambassador, meanwhile being an active and highlighted member of several societies i.e Strapi, SES MUET, & Appwrite, promoting pragmatic technical education. I know how technology can uplift a nation.
+If technology were a fire, I would jump right into it.
+There are very rare things that fascinate me a lot, like rebirth of a star and innovations in technology.
 
+I am on a journey to influence masses!
+  
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
 <img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
 
