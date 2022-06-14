@@ -21,7 +21,7 @@
 <a href="https://twitter.com/rashidwassaan">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
 </a>  
-<a href="https://www.youtube.com/c/RashidsTechStuff">
+<a href="https://www.youtube.com/c/RashidWassan">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
 </a>  
 <a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
