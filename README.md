@@ -3,41 +3,50 @@
 <!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
 
 <!--- header image --->
+
 ![image](https://user-images.githubusercontent.com/60597290/152595696-1580063b-be71-4b2b-a1ca-1613caa18291.png)
 
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
-<div align="center">  
+<div align="center">
 
 ![Rashid Wassan (1800 × 260 px)](https://user-images.githubusercontent.com/60597290/168483407-a4ee893a-e874-4990-9ff8-9f3e0feac9fe.png)
-  
+
 <!--- portfolio launch image --->
 <a href="http://www.rashidwassan.tech">
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
 
-  ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 </a>
 
 <!--- social media icons, you can find them in assets directory of this repo --->
-<a href="https://twitter.com/rashidwassaan">
-    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
+<a href="https://rashidwassan.tech">
+    <img height="60" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
 </a>  
-<a href="https://www.youtube.com/c/RashidsTechStuff">
-    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
-</a>  
-<a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
-  <img height="55" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+<a href="https://www.linkedin.com/in/rashidwassan/">
+  <img height="60" alt="RashidWassan | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
 </a> 
+<a href="https://www.facebook.com/rashidwassaan">
+  <img height="60" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/173852508-c8fba934-8e29-45c1-940e-ce45af784d37.png" />
+</a>
+<a href="https://www.instagram.com/rashidwassaan">
+  <img height="60" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
+</a>
+<a href="https://twitter.com/rashidwassaan">
+    <img height="60" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" />
+</a> 
+<a href="https://stackoverflow.com/users/15750590/rashid-wassan">
+  <img height="60" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/173852537-7dc3093c-1ecc-4106-b0b3-7aa572d0449d.png" />
+</a>
+<a href="https://leetcode.com/rashidwassan/">
+  <img height="60" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/173852527-91d18f31-87ce-4a02-a519-a33cb8b4cf11.png" />
+</a>
+<a href="https://www.youtube.com/c/RashidsTechStuff">
+    <img height="60" src="https://user-images.githubusercontent.com/60597290/173852551-b848aea3-9d04-435a-9e1d-260f1c5d8942.png" />
+</a> <a href="https://www.tiktok.com/@rashidwassan">
+    <img height="60" src="https://user-images.githubusercontent.com/60597290/173852540-74378479-ffb2-4f41-bc9d-88d2a3ac3066.png" />
+</a>
 <a href="https://dev.to/rashidwassan">
-    <img height="55" src="https://user-images.githubusercontent.com/60597290/152042608-2ae071b9-2a64-49be-a49d-f830152cf8d4.png" />
-</a>
-<a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
-  <img height="55" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
-</a>
-<a href="https://www.facebook.com/rashidwassaan" target="_blank">
-  <img height="55" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
-</a>
-<a href="https://www.instagram.com/rashidwassaan" target="_blank">
-  <img height="55" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+    <img height="60" src="https://user-images.githubusercontent.com/60597290/173852494-7b3ce86a-497d-4998-810e-35180b7bdea2.png" />
 </a>
 
 <!--- a bit of vertical space & languages text --->
@@ -62,6 +71,7 @@
 <img height="100" src="https://user-images.githubusercontent.com/60597290/164893705-6928f187-fa61-4174-abba-bfd8d93b6fb2.png" />
 
 &nbsp;
+
 <h1 align="center">
   ABOUT ME
 </h1>
@@ -87,10 +97,11 @@ Apart from that, I'm a helping hand for the learners; helping people to learn an
 Thanks to my strong communication skills along with better team management guts, I have been leading Google Developer Students Club at my campus and serving as a Microsoft Learn Student Ambassador, meanwhile being an active and highlighted member of several societies i.e Strapi, SES MUET, & Appwrite, promoting pragmatic technical education. I know how technology can uplift a nation.
   
 If technology were a fire, I would jump right into it.
-  
+
 There are very rare things that fascinate me a lot, like rebirth of a star and innovations in technology.
-  
+
 I am the storehouse of bigger thoughts & huge optimism.
+
 <p>On a journey to influence masses!</p>
   
 <!--- adding 3D earth icon to show some love for the environment 🌏 --->
