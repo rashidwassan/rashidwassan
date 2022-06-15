@@ -22,8 +22,11 @@
 <a href="https://rashidwassan.tech">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
 </a>  
-<a href="https://www.linkedin.com/in/rashidwassan/">
-  <img height="60" alt="RashidWassan | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
+<a href="https://www.youtube.com/c/RashidWassan">
+    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
+</a>  
+<a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
+  <img height="55" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a> 
 <a href="https://www.facebook.com/rashidwassaan">
   <img height="60" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/173852508-c8fba934-8e29-45c1-940e-ce45af784d37.png" />
@@ -120,7 +123,8 @@ I am the storehouse of bigger thoughts & huge optimism.
 ```text
 Dart               5 hrs 30 mins       ███████░░░     70.75%
 Solidity           3 hrs 15 mins       ██████░░░░     55.18%
-Java               0 secs              ░░░░░░░░░░     00.05%
+JavaScript         3 hrs 00 mins       ██████░░░░     52.00%
+Java               1 hr  00 secs       █░░░░░░░░░     05.05%
 ```
 <!--- building footer with spaceship question --->
 ![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
