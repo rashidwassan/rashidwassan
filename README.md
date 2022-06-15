@@ -40,7 +40,7 @@
 <a href="https://leetcode.com/rashidwassan/">
   <img height="60" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/173852527-91d18f31-87ce-4a02-a519-a33cb8b4cf11.png" />
 </a>
-<a href="https://www.youtube.com/c/RashidsTechStuff">
+<a href="https://www.youtube.com/c/rashidwassan">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852551-b848aea3-9d04-435a-9e1d-260f1c5d8942.png" />
 </a> <a href="https://www.tiktok.com/@rashidwassan">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852540-74378479-ffb2-4f41-bc9d-88d2a3ac3066.png" />
