@@ -4,7 +4,9 @@
 
 <!--- header image --->
 
-![image](https://user-images.githubusercontent.com/60597290/152595696-1580063b-be71-4b2b-a1ca-1613caa18291.png)
+![github-banner](https://user-images.githubusercontent.com/60597290/187523573-ec63e554-94e2-468d-95f8-442e378e0505.png)
+
+<!--- ![image](https://user-images.githubusercontent.com/60597290/152595696-1580063b-be71-4b2b-a1ca-1613caa18291.png) --->
 
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 <div align="center">
