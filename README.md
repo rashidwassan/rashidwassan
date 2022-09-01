@@ -121,9 +121,16 @@ I am the storehouse of bigger thoughts & huge optimism.
   
 ```text
 Dart               5 hrs 30 mins       ███████░░░     70.75%
-Solidity           3 hrs 15 mins       ██████░░░░     55.18%
+Python.            3 hrs 15 mins       ██████░░░░     55.18%
 Java               0 secs              ░░░░░░░░░░     00.05%
 ```
+  
+## Stackoverflow Reputation 
+
+<p align="center">
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=15750590&theme=dark" height="250">
+  </p>
+ 
 <!--- building footer with spaceship question --->
 ![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
 <img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
