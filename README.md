@@ -130,6 +130,8 @@ Java               0 secs              ░░░░░░░░░░     00.05%
 <p align="center">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=15750590&theme=dark" height="250">
   </p>
+  
+<a href="https://wakatime.com/@94dec0b3-75bc-4456-b8ac-37697338e4ac"><img src="https://wakatime.com/badge/user/94dec0b3-75bc-4456-b8ac-37697338e4ac.svg" alt="Total time coded since Jun 25 2022" /></a>
  
 <!--- building footer with spaceship question --->
 ![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
