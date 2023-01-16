@@ -1,10 +1,7 @@
-<!--- assets are created on Canva --->
-<!--- feel free to download the assests and use them in your profile --->
-<!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
-
-<!--- ![image](https://user-images.githubusercontent.com/60597290/152595696-1580063b-be71-4b2b-a1ca-1613caa18291.png) --->
-
-<!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
+<div align="center" width="50">
+  
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+  
 <div align="center">
 
 ![Rashid Wassan (1800 × 260 px)](https://user-images.githubusercontent.com/60597290/168483407-a4ee893a-e874-4990-9ff8-9f3e0feac9fe.png)
