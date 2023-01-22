@@ -133,7 +133,7 @@ I am the storehouse of bigger thoughts & huge optimism.
 
 
 <p align="center">
-	<img width="625em" src="https://github.com/farhanashrafdev/rashidwassan/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/rashidwassan/rashidwassan/blob/main/github-metrics.svg" />
 </p>
 
  
