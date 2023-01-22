@@ -117,6 +117,27 @@ I am the storehouse of bigger thoughts & huge optimism.
   
 <a href="https://wakatime.com/@94dec0b3-75bc-4456-b8ac-37697338e4ac"><img src="https://wakatime.com/badge/user/94dec0b3-75bc-4456-b8ac-37697338e4ac.svg" alt="Total time coded since Jun 25 2022" /></a>
  
+ 
+
+# Github Contributions
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+
+
+
+# Github Metrics
+
+
+<p align="center">
+	<img width="625em" src="https://github.com/farhanashrafdev/rashidwassan/blob/main/github-metrics.svg" />
+</p>
+
+ 
+ 
 <!--- building footer with spaceship question --->
 ![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
 <img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
