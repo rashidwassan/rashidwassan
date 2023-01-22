@@ -109,15 +109,6 @@ I am the storehouse of bigger thoughts & huge optimism.
 </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
-<h2>WEEKLY DEVELOPMENT STATS </h2>
-<!--- just a dummy data for decoration --->
-  
-```text
-Dart               5 hrs 30 mins       ███████░░░     70.75%
-Python.            3 hrs 15 mins       ██████░░░░     55.18%
-Java               0 secs              ░░░░░░░░░░     00.05%
-```
-  
 ## Stackoverflow Reputation 
 
 <p align="center">
