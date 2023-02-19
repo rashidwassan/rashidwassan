@@ -4,11 +4,9 @@
   
 <div align="center">
 
-![Rashid Wassan (1800 × 260 px)](https://user-images.githubusercontent.com/60597290/168483407-a4ee893a-e874-4990-9ff8-9f3e0feac9fe.png)
-
 <!--- portfolio launch image --->
 <a href="http://www.rashidwassan.tech">
-  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
+  <img height="200" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
 
 ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 </a>
