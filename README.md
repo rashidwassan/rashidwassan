@@ -68,35 +68,20 @@
 <h1 align="center">
   ABOUT ME
 </h1>
+	
+<img width="115" height="115" src="https://user-images.githubusercontent.com/60597290/219938475-bca82c59-391e-4e5a-879c-5df0897dffe4.png" />
   
-<img width="115" height="115" src="https://user-images.githubusercontent.com/60597290/167219087-68b2fc10-b79d-4b83-b7f9-9396beb7c2df.png" />
-  
-<p>'A young entrepreneur, passionate Software Engineer, & tech evangelist fascinated by new tech-trends. Playing the part in bringing digital revolution and tech-awareness in the world.'</p>
- 
-The perfectionist geek living in Metaverse, having a deep obsession with cyberpunk things, gaming, web3 & beautiful user interface designs.
-You will find me Fluttering in the low level deeper caves of Dart, hunting treasures of advanced programming concepts, because I love to code and hunt bugs. 
-  
-I am a patient of the Blockchain Love Syndrome caused by Centralization-o-Phobia, and my mind’s Solidity is (Rust)ed. I am a foodie! The delicious taste of Truffle and Ganache is too mouthwatering for me to resist, causing me to crave the yummy taste of Remix.
-I prepare for university exams just a night before, the rest of the semester passes by reading exceptions of the node package manager, the error logs, which are longer than my whole semester’s syllabus.
-If experimenting and messing around with different Operating Systems and their crucial files is like shooting one’s foot, then believe me, I hate my feet.
-Computer hardware fascinates me very much, as if I have spent my whole childhood inside a transistor of a Pentium II CPU, thus very curious to know about my neighbors.
-  
-For me, the petrichor smell of Raspberry Pi & Arduino boards (even after short circuit) is far superior than that of gasoline. I wanted to become a surgeon and studied computer anatomy a lot. Till now, I have performed successful surgeries on 10+ laptops (some died in result).
-  
-I have a serious crush on DevOps concepts and am currently finding ways to understand them with the help of AWS.
-  
-Apart from that, I'm a helping hand for the learners; helping people to learn and grow. I believe in quality education & am eager to promote it. I have been helping others by creating content on my YouTube channel & writing articles on various platforms.
-  
-Thanks to my strong communication skills along with better team management guts, I have been leading Google Developer Students Club at my campus and serving as a Microsoft Learn Student Ambassador, meanwhile being an active and highlighted member of several societies i.e Strapi, SES MUET, & Appwrite, promoting pragmatic technical education. I know how technology can uplift a nation.
-  
-If technology were a fire, I would jump right into it.
+<p><p/>	
+A young entrepreneur, passionate computer geek fascinated by new technology trends, and a helping hand for learners having impacted tens of thousands of software developers worldwide, striving for accelerating the career growth of students by building communities.
+A meticulous engineer super curious about automation and fascinated with the concept of making deployments efficient.
+You will find me Fluttering in the low-level deeper caves of Dart, hunting the treasures of advanced programming concepts because I love to code and hunt bugs. Or I might be found accelerating and improving deployments of any firm as a DevOps Engineer. 
+I am a patient of the Blockchain Love Syndrome caused by Centralization-o-Phobia, and my mind’s Solidity is (Rust)ed. I am a foodie! The delicious taste of Truffle and Ganache is too mouthwatering to resist, causing me to crave the yummy taste of Remix.
+If experimenting and messing around with different Operating Systems and their crucial files is like shooting one’s foot, then, believe me, I hate my feet.
+Computer hardware fascinates me very much as if I have spent my whole childhood inside an Intel 8086, thus having a great idea of my city where we use to talk in assembly language.
+Apart from that, I'm a helping hand for the learners; helping people to learn and grow. I believe in quality education & am eager to promote it. I have been helping others by creating content on my YouTube channel. To promote pragmatic education and help students in choosing a proper career track, I have launched a campaign involving a series of career counseling talk sessions at different colleges in Pakistan.
+Thanks to my strong communication skills along with better team management guts, I have been leading Google Developer Students Club at my campus and serving as a GitHub Campus Expert, and Microsoft Learn Student Ambassador, meanwhile being an active and highlighted member of several societies i.e Strapi, SES MUET, MUET PCBS, & Appwrite, promoting pragmatic technical education. I know how technology can uplift a nation.
 
-There are very rare things that fascinate me a lot, like rebirth of a star and innovations in technology.
-
-I am the storehouse of bigger thoughts & huge optimism.
-
-<p>On a journey to influence masses!</p>
-  
+<div><div/>
 <!--- adding 3D earth icon to show some love for the environment 🌏 --->
 <img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
 
@@ -105,7 +90,7 @@ I am the storehouse of bigger thoughts & huge optimism.
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
-<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<!--- <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div> --->
 
 ## Stackoverflow Reputation 
 
