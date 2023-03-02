@@ -6,10 +6,12 @@
 
 <!--- portfolio launch image --->
 <a href="http://www.rashidwassan.tech">
-  <img height="200" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/rashidwassan.png" alt="TryHackMe">
 
 ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 </a>
+	
+
 
 <!--- social media icons, you can find them in assets directory of this repo --->
 <a href="https://rashidwassan.tech">
@@ -119,8 +121,3 @@ Thanks to my strong communication skills along with better team management guts,
 	<img width="625em" src="https://github.com/rashidwassan/rashidwassan/blob/main/github-metrics.svg" />
 </p>
 
- 
- 
-<!--- building footer with spaceship question --->
-![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
-<img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
