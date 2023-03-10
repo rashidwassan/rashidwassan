@@ -4,7 +4,8 @@
   
 <div align="center">
 
-<!--- portfolio launch image --->
+<img src="https://tryhackme-badges.s3.amazonaws.com/rashidwassan.png" alt="TryHackMe">
+	
 ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 	
 
