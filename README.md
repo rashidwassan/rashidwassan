@@ -71,7 +71,7 @@
 <img width="115" height="115" src="https://user-images.githubusercontent.com/60597290/219938475-bca82c59-391e-4e5a-879c-5df0897dffe4.png" />
   
 <p><p/>	
-A young entrepreneur, passionate computer geek fascinated by new technology trends, and a helping hand for learners having impacted tens of thousands of software developers worldwide, striving for accelerating the career growth of students by building communities.
+A passionate computer geek fascinated by new technology trends, and a helping hand for learners having impacted tens of thousands of software developers worldwide, striving to accelerate the career growth of students by building communities.
 A meticulous engineer super curious about automation and fascinated with the concept of making deployments efficient.
 You will find me Fluttering in the low-level deeper caves of Dart, hunting the treasures of advanced programming concepts because I love to code and hunt bugs. Or I might be found accelerating and improving deployments of any firm as a DevOps Engineer. 
 I am a patient of the Blockchain Love Syndrome caused by Centralization-o-Phobia, and my mind’s Solidity is (Rust)ed. I am a foodie! The delicious taste of Truffle and Ganache is too mouthwatering to resist, causing me to crave the yummy taste of Remix.
