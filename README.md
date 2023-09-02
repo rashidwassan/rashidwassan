@@ -1,6 +1,6 @@
 <div align="center" width="50">
   
-![gheader](https://user-images.githubusercontent.com/60597290/219936702-3e518ce0-2eec-48ab-814b-4b7ef1c0f6ba.png)
+![image (1)](https://github.com/rashidwassan/rashidwassan/assets/60597290/51c9ebc3-038e-4751-9f40-8a28e9dca953)
   
 <div align="center">
 
