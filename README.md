@@ -42,12 +42,11 @@
 </a>
 
 <!--- a bit of vertical space & languages text --->
-<div>&nbsp;</div>
-<img height="65" alt="Languages and tools text" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
+<!-- <img height="65" alt="Languages and tools text" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" /> -->
 
 <div></div>
 <!--- language icons --->
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152359293-4c3dc461-2be7-4d75-b5e3-6244637020e1.png" />
+<!-- <img height="100" src="https://user-images.githubusercontent.com/60597290/152359293-4c3dc461-2be7-4d75-b5e3-6244637020e1.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152362823-eb0e032a-5c84-4832-803c-c77bf5b558a0.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152361790-b7faad3d-5f95-468a-aa51-e38f39419ec4.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366251-81e7024b-81c6-422c-ae71-ad035850d030.png" />
@@ -60,25 +59,34 @@
 <img height="100" src="https://user-images.githubusercontent.com/60597290/164893694-944339f3-218e-42d6-9d4d-ba995da154de.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/164893696-ca2416eb-9c23-4d26-b8ee-b699613e7c21.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/164893699-33abe58d-bb7f-43b4-a63d-dcd93cf9ff6a.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/164893705-6928f187-fa61-4174-abba-bfd8d93b6fb2.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/164893705-6928f187-fa61-4174-abba-bfd8d93b6fb2.png" /> -->
 
 &nbsp;
 
 <h1 align="center">
   ABOUT ME
 </h1>
-	
-<img width="115" height="115" src="https://user-images.githubusercontent.com/60597290/219938475-bca82c59-391e-4e5a-879c-5df0897dffe4.png" />
   
 <p><p/>	
-A passionate computer geek fascinated by new technology trends, and a helping hand for learners having impacted tens of thousands of software developers worldwide, striving to accelerate the career growth of students by building communities.
-A meticulous engineer super curious about automation and fascinated with the concept of making deployments efficient.
-You will find me Fluttering in the low-level deeper caves of Dart, hunting the treasures of advanced programming concepts because I love to code and hunt bugs. Or I might be found accelerating and improving deployments of any firm as a DevOps Engineer. 
-I am a patient of the Blockchain Love Syndrome caused by Centralization-o-Phobia, and my mind’s Solidity is (Rust)ed. I am a foodie! The delicious taste of Truffle and Ganache is too mouthwatering to resist, causing me to crave the yummy taste of Remix.
-If experimenting and messing around with different Operating Systems and their crucial files is like shooting one’s foot, then, believe me, I hate my feet.
-Computer hardware fascinates me very much as if I have spent my whole childhood inside an Intel 8086, thus having a great idea of my city where we use to talk in assembly language.
-Apart from that, I'm a helping hand for the learners; helping people to learn and grow. I believe in quality education & am eager to promote it. I have been helping others by creating content on my YouTube channel. To promote pragmatic education and help students in choosing a proper career track, I have launched a campaign involving a series of career counseling talk sessions at different colleges in Pakistan.
-Thanks to my strong communication skills along with better team management guts, I have been leading Google Developer Students Club at my campus and serving as a GitHub Campus Expert, and Microsoft Learn Student Ambassador, meanwhile being an active and highlighted member of several societies i.e Strapi, SES MUET, MUET PCBS, & Appwrite, promoting pragmatic technical education. I know how technology can uplift a nation.
+I'm eager to learn about a wide range of technical stuff, like assembly language and how to make modern jets better with technology. I like to figure out if we can make things work automatically. I'm always trying to become a really good Software Engineer by exploring different ideas in the field.
+
+My Skillset:
+◆ IBM Cloud & GCP
+◆ Terraform
+◆ Docker
+◆ Kubernetes
+◆ GitHub Actions + Tekton (CI/CD)
+◆ Test Driven Development, Software Testing
+◆ GNU Linux, Namespaces & Containerization
+◆ Microservices Architecture and Best Practices
+◆ Sound Understanding of Computer Hardware
+◆ Blockchain Core Development
+◆ Dart & Flutter (3 years of part-time work experience)
+◆ Software Engineering Best Practices
+◆ Deeper Understanding of Computer Hardware
+◆ Computer Architecture and Electronics
+
+I often come up with implementing my own ideas and using my own software solutions to increase productivity.
 
 <div><div/>
 <!--- adding 3D earth icon to show some love for the environment 🌏 --->
