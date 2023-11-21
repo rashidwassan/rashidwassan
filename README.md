@@ -4,7 +4,7 @@
   
 <div align="center">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/rashidwassan.png" alt="TryHackMe">
+<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/rashidwassan.png" alt="TryHackMe"> --->
 	
 ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 	
