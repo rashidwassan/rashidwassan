@@ -72,10 +72,11 @@ I'm eager to learn about a wide range of technical stuff, like assembly language
 
 My Skillset:
 ◆ IBM Cloud & GCP
+◆ Ansible
 ◆ Terraform
 ◆ Docker
 ◆ Kubernetes
-◆ GitHub Actions + Tekton (CI/CD)
+◆ GitHub Actions + Tekton (CI/CD) + Jenkins
 ◆ Test Driven Development, Software Testing
 ◆ GNU Linux, Namespaces & Containerization
 ◆ Microservices Architecture and Best Practices
