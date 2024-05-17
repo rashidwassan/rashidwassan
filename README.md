@@ -59,16 +59,19 @@
 </h1>
   
 <p><p/>	
-I'm eager to learn about a wide range of technical stuff, like assembly language and how to make modern jets better with technology. I like to figure out if we can make things work automatically. I'm always trying to become a really good Software Engineer by exploring different ideas in the field.
+As a DevOps Engineer at ForwardYou AG, I design and implement automation infrastructure & CI\CD pipelines that optimize the deployment processes for enterprise insurance solutions for the European Market to save tonnes of valuable organizational resources. My experience spans developing IT infrastructure at Mehfooz Mustaqbil Foundation, enhancing mobile billing systems at ACS Japan K.K, and delivering large-scale, production-grade mobile app projects at ISAATECH that make the lives of thousands of customers easy, globally. My career is defined by my commitment to operational excellence and innovation, using tools like Jenkins, Kubernetes, Ansible, and other Open-Source DevOps tools to streamline development lifecycles. I often come up with implementing my own ideas and using my own software solutions to increase productivity.
+
+Outside of professional engagements, I actively contribute to the tech community by making open-source contributions, public speaking, and providing mentorship. As a Microsoft Learn Gold Ambassador, former GDSC Lead, and GitHub Campus Expert, I promote technical literacy and collaboration.
 
 My Skillset:
+◆ Python, Ruby, Java, Dart
 ◆ IBM Cloud & GCP
 ◆ Ansible
 ◆ Terraform
-◆ Docker
-◆ Kubernetes
-◆ GitHub Actions + Tekton (CI/CD) + Jenkins
-◆ Test Driven Development, Software Testing
+◆ Node.js, Maven, BaaS
+◆ Docker, Kubernetes, K3s, Rancher
+◆ GitHub Actions + Tekton & Jenkins (CI/CD)
+◆ Test Driven Development, Automated Testing
 ◆ GNU Linux, Namespaces & Containerization
 ◆ Microservices Architecture and Best Practices
 ◆ Sound Understanding of Computer Hardware
@@ -76,7 +79,6 @@ My Skillset:
 ◆ Dart & Flutter (3 years of part-time work experience)
 ◆ Software Engineering Best Practices
 ◆ Deeper Understanding of Computer Hardware
-◆ Computer Architecture and Electronics
 
 I often come up with implementing my own ideas and using my own software solutions to increase productivity.
 
