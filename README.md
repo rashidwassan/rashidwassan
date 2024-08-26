@@ -1,7 +1,5 @@
 <div align="center" width="50">
-  
-![image (1)](https://github.com/rashidwassan/rashidwassan/assets/60597290/51c9ebc3-038e-4751-9f40-8a28e9dca953)
-  
+   
 <div align="center">
 
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/rashidwassan.png" alt="TryHackMe"> --->
