@@ -1,13 +1,10 @@
 # Hello there!😀
 
 <div align="center" width="50">
-   
-<div align="center">
 
-<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/rashidwassan.png" alt="TryHackMe"> --->
+<div align="center">
 	
 ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
-	
 
 
 <!--- social media icons, you can find them in assets directory of this repo --->
@@ -86,6 +83,11 @@ I often come up with implementing my own ideas and using my own software solutio
 <!--- adding 3D earth icon to show some love for the environment 🌏 --->
 <img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
 
+
+## Projects:
+
+- FILOS: an Insurance Solution for European Market
+
 <hr>
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
@@ -100,7 +102,8 @@ I often come up with implementing my own ideas and using my own software solutio
   </p>
   
 <a href="https://wakatime.com/@94dec0b3-75bc-4456-b8ac-37697338e4ac"><img src="https://wakatime.com/badge/user/94dec0b3-75bc-4456-b8ac-37697338e4ac.svg" alt="Total time coded since Jun 25 2022" /></a>
- 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/rashidwassan.png" alt="TryHackMe">
  
 <!---
 # Github Contributions
