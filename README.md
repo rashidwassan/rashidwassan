@@ -24,7 +24,7 @@
 - 📫 Contact me at rashidwassan.com
 
 ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
-<a href="https://wakatime.com/@94dec0b3-75bc-4456-b8ac-37697338e4ac"><img src="https://wakatime.com/badge/user/94dec0b3-75bc-4456-b8ac-37697338e4ac.svg" alt="Total time coded since Jun 25 2022" /></a>
+[![wakatime](https://wakatime.com/badge/user/94dec0b3-75bc-4456-b8ac-37697338e4ac.svg)](https://wakatime.com/@94dec0b3-75bc-4456-b8ac-37697338e4ac)
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
