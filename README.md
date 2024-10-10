@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently working on DevSecOps in Fintech
-- 🌱 I’m currently learning Go. 
+- 🌱 I’m currently learning Go & SecOps. 
 - 👯 I’m looking to collaborate on DevOps Tooling. 
 - 💬 Talk to me about community, and all in tech!
 - 📫 Contact me at rashidwassan.com
