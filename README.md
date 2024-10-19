@@ -79,8 +79,9 @@
 
 <h2> Projects  <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </h2>
 
-- FILOS: An Insurance Distribution Mangement System for Eurpoean Market.
-- Unilever LeverEdge: Unilever's Distribution Management System, Powering their Bussiness across 30+ Countries.
+- **FILOS:** An Insurance Distribution Mangement System for Eurpoean Market.
+- **Unilever LeverEdge:** Unilever's Distribution Management System, Powering their Bussiness across 30+ Countries.
+- **Strapi Mobile Admin Panel:** User friendly admin panel app for Strapi CMS to ease the management of the backend resoures on-the-go.
 
 <br>
 
