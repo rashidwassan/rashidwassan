@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on DevSecOps in Fintech
 - 🌱 I’m currently learning Go & SecOps. 
-- 👯 I’m looking to collaborate on 3 of my Flutter apps. 
+- 👯 I’m looking to collaborate on open-source DevOps & tooling. 
 - 💬 Talk to me about community, and all in tech!
 - 📫 Contact me at rashidwassan.com
 
