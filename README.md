@@ -11,7 +11,7 @@
   <h2> About Me </h2>
 
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-<img height="210" align="right" alt="Github" src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/twitter_thumb_201604_image.png" />
+<img height="200" align="right" alt="Github" src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/twitter_thumb_201604_image.png" />
 
 
 - 🔭 I’m currently working on DevSecOps in Fintech & E-Governance
