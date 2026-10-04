@@ -1,0 +1,73 @@
+# Rebuilds the profile's live cards (stats, top languages, streak, snake)
+# and commits them to ./profile so the README never depends on a flaky public endpoint.
+#
+# Optional: add a Personal Access Token as the repo secret STATS_TOKEN
+# (classic PAT with `read:user` + `repo`) to count private contributions.
+# Without it, the built-in GITHUB_TOKEN is used and only public activity is shown.
+
+name: profile-pipeline
+
+on:
+  schedule:
+    - cron: "17 2 * * *"            # nightly
+  workflow_dispatch:                # "Run workflow" button in the Actions tab
+  push:
+    paths:
+      - ".github/workflows/profile-pipeline.yml"
+
+permissions: {}                     # least privilege by default
+
+concurrency:
+  group: profile-pipeline
+  cancel-in-progress: true
+
+jobs:
+  render:
+    name: Render profile cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write               # needed only to commit the generated SVGs
+
+    # Hardening tip: pin third-party actions to full commit SHAs once this works.
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12
+          path: profile/stats.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12
+          path: profile/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Streak card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&hide_border=true&border_radius=12&background=1A1B27&stroke=414868&ring=BB9AF7&fire=BB9AF7&currStreakNum=C0CAF5&currStreakLabel=BB9AF7&sideNums=C0CAF5&sideLabels=7AA2F7&dates=565F89
+          path: profile/streak.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake.svg?color_snake=#7aa2f7
+            profile/snake-dark.svg?palette=github-dark&color_snake=#bb9af7
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore(profile): refresh telemetry" || exit 0
+          git push
