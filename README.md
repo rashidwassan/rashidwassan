@@ -9,13 +9,21 @@
 </p>
 
 <p align="center">
+<a href="https://certdirectory.io/profile/rashid-hussain?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/rashid-hussain.svg?style=card&theme=dark">
+    <img alt="Rashid Hussain on CertDirectory" src="https://certdirectory.io/badge/rashid-hussain.svg?style=card">
+  </picture>
+</a>
+</p>
+
+<p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=rashidwassan&label=visitors&color=7aa2f7&style=flat-square" alt="Profile views" /> -->
   <a href="https://wakatime.com/@94dec0b3-75bc-4456-b8ac-37697338e4ac"><img src="https://wakatime.com/badge/user/94dec0b3-75bc-4456-b8ac-37697338e4ac.svg" alt="WakaTime" /></a>
   <img src="https://img.shields.io/badge/status-open_to_collab-9ece6a?style=flat-square" alt="Open to collaborate" />
 </p>
 
 <br>
-
 ## ☸️ `kubectl get engineer rashid-wassan -o yaml`
 
 ```yaml
